@@ -75,7 +75,7 @@ Required libraries:
 1. Clone this repository.
 2. Open the `.ino` file in Arduino IDE.
 3. Install required libraries.
-4. Input personal wifi name and password
+4. Input personal WiFi name and password
 5. Connect the hardware according to the wiring diagram.
 6. Configure an applet on IFTTT with an "if this" as "Recieve a webhook request" and a "then that" as "Send me an email".
 7. Paste webhook url given by IFTTT into http.GET()
